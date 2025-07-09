@@ -26,9 +26,10 @@ SECRET_KEY = 'django-insecure-z381@xy)o_bz=d-_!c4qv5re(#cokp@u1hojc@!8ki!7_-6s#+
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://fealtyx-assignment-mga2.onrender.com",
+    "fealtyx-assignment-mga2.onrender.com",
     "localhost",
-    "127.0.0.1"]
+    "127.0.0.1"
+]
 
 
 # Application definition
